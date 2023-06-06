@@ -1,1 +1,2 @@
-console.log("Verzijon 03");
+console.log("Verzijon 05");
+console.log("sve je apdejtano");
