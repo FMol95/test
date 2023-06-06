@@ -1,2 +1,2 @@
-console.log("Verzijon 05");
-console.log("sve je apdejtano");
+console.log("Verzija 11 aka finale");
+console.log("Sve je apdejtano");
